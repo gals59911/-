@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(417,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(479,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(576,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(577,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(277,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(276): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(327): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(285): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\Gals\source\repos\Komi2\Komi2\Header.h(56): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Komi2.vcxproj -> C:\Users\Gals\source\repos\Komi2\Debug\Komi2.exe
