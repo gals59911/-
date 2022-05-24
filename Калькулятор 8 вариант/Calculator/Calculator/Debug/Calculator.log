@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Gals\source\repos\Calculator\Calculator\MyForm.h(637,27): warning C4101: error: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\Gals\source\repos\Calculator\Debug\Calculator.exe
